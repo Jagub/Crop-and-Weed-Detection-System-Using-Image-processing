@@ -107,9 +107,8 @@ Data on https://www.kaggle.com/ravirajsinh45/crop-and-weed-detection-data-with-b
 
 
 If you have any doubts feel free to ask any quesion at any time:)  
-  * LinkedIn:  https://www.linkedin.com/in/ravirajsinh45/  
-  * Twitter:   www.twitter.com/ravirajsinh45  
-  * Instagram: https://www.instagram.com/ravirajsinh45/  
+  * LinkedIn:  https://www.linkedin.com/in/jagjot-singh-b07445227/  
+  * Instagram: https://www.instagram.com/singh_jagjot_17/  
 
  # Thank You:) 
 
